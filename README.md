@@ -11,7 +11,7 @@ Altman氏によるとTV-B-Goneは、どこにでも存在して人の注意を�
 アメリカ人が好きなプラクティカルジョーク的な楽しみの意味合いもあるように感じます。  
 
 ### このプロジェクトの概要
-TV-BーGONEはライセンスフリーで、Adafruit社が最初の[TV-BーGONEキット](https://www.adafruit.com/product/73)を出したのは2005年？前後で、8PINのAVRマイコン ATTINY85CPUを使って制御しています。  
+TV-BーGONEはライセンスフリーで、Adafruit社が最初の[TV-BーGONEキット](https://www.adafruit.com/product/73)を出したのは2005年？前後で、8PINのAVRマイコン ATTINY85 CPUを使って制御しています。  
 ハードウェアとファームウェアは当初のV1.0から、いまはV1.2に進化しています。  
 当初はNA版（北米/アジア）とEU版（ヨーロッパ版）にファームウェアが別れていましたが、V1.2では開きポートを抵抗一本で（H/L）に制御することで、どちらのリージョンにも対応できるようになっています。    
 ただし、この時代にはAVRマイコンの開発環境として[WINAVR](https://winavr.sourceforge.net/)というAVR-GCCを使ったCLIインターフェースで書かれており、今回は自分が良く使うATMEL STUDIOというIDE統合環境に移植しています。  
