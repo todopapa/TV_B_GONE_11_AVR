@@ -58,5 +58,5 @@ IR LEDには直列に1Ωの抵抗をいれてますが、実験的には無く�
 全部のコードが発振されるまで（テレビが消えるまで）押し続けてください。  
 全部発信されると、最後に4回LEDが短く点灯した後、消灯します。  
 動作が終わると、TINY85はSleepモードに入り、動作電流は < 1uA になります。  
-Adafruitによると、このガジェットに対応するテレビは、下記のようです。家電店等でテストするのは止めたほうがいいかもしれせん。
+Adafruitによると、このガジェットに対応するテレビは、下記のようです。家電店等でテストするのは止めたほうがいいかもしれせん。  
 Acer, Admiral, Aiko, Alleron, Anam National, AOC, Apex, Baur, Bell&Howell, Brillian, Bush, Candle, Citizen, Contec, Cony, Crown, Curtis Mathes, Daiwoo, Dimensia, Electrograph, Electrohome, Emerson, Fisher, Fujitsu, Funai, Gateway, GE, Goldstar, Grundig, Grunpy, Hisense, Hitachi, Infinity, JBL, JC Penney, JVC, LG, Logik, Loewe, LXI, Majestic, Magnavox, Marantz, Maxent, Memorex, Mitsubishi, MGA, Montgomery Ward, Motorola, MTC, NEC, Neckermann, NetTV, Nikko, NTC, Otto Versand, Palladium, Panasonic, Philco, Philips, Pioneer, Portland, Proscan, Proton, Pulsar, Pye, Quasar, Quelle, Radio Shack, Realistic, RCA, Samsung, Sampo, Sansui, Sanyo, Scott, Sears, SEI, Sharp, Signature, Simpson, Sinudyne, Sonolor, Sony, Soundesign, Sylviana, Tatung, Teknika, Thompson, Toshiba, Universum, Viewsonic, Wards, White Westinghouse, Zenith
